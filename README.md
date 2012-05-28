@@ -1,7 +1,7 @@
 Ackana
 ======
 
-Link parsing in every language.
+Hyperlink parsing in every language.
 
 ## Javascript
 
