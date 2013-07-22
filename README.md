@@ -9,8 +9,14 @@ Hyperlink parsing in every language.
 'example.com'.ackana()
 ```
 
+## Python
+
+```python
+ackana('example.com')
+```
+
 ## PHP
 
-```javascript
+```php
 ackana('example.com')
 ```
